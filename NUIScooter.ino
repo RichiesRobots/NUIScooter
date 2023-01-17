@@ -259,7 +259,7 @@ const char* loginIndex =
   "<script>"
   "function check(form)"
   "{"
-  "if(form.userid.value=='admin' && form.pwd.value=='vincentisenbaas!')"
+  "if(form.userid.value=='admin' && form.pwd.value=='SET PASSWORD!')"
   "{"
   "window.open('/serverIndex')"
   "}"
