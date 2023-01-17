@@ -4,7 +4,7 @@ Done to turn off the charger for the NUI scooter thus preserving its life when i
 
 You need
 
-433mhz Power plug (use the code in this project 433mhzShowreceivedCode.ino)
+433mhz Power plug (use the code in this project 433mhzShowReceivedCode.ino)
 
 You could also (and welcome to) use a wifi plug instead
 
